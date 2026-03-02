@@ -1,0 +1,21 @@
+Package: ungated
+Priority: optional
+Section: default
+Installed-Size: 735745
+Maintainer: Alexandru Danisor <gadanisor@gmail.com>
+Architecture: amd64
+Version: 0.1.0
+Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
+Recommends: libappindicator3-1
+Filename: pool/master/u/ungated/Ungated.deb
+Size: 170119758
+MD5sum: 7863717883444c40a4279e325c3a30bc
+SHA1: c3589f87e1bd8eb39a0ac2db670503c9b1b8a082
+SHA256: e743c2c8824c8d2671e08640d8195ab858b528d4ff778cccf8013135083b82d5
+SHA512: 5f3dbe9e5eb31b069e85a3f0aa6aae0c763b43049df85b6e08f607e42a9cc63a1e9641909302bf2d4738da8f44800635d461358efa4a308e56235efba2b31a31
+Description: 
+  The IDE for writers. A semantic knowledge graph, outliner, and writing environment built on top of Electron and Vue.
+Homepage: https://github.com/gadanisor/ungated
+License: unknown
+Vendor: Alexandru Danisor <gadanisor@gmail.com>
+
