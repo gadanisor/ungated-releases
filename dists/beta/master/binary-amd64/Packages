@@ -1,18 +1,18 @@
 Package: ungated
 Priority: optional
 Section: default
-Installed-Size: 735770
+Installed-Size: 735781
 Maintainer: Alexandru Danisor <gadanisor@gmail.com>
 Architecture: amd64
 Version: 0.1.1
 Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
 Recommends: libappindicator3-1
 Filename: pool/master/u/ungated/ungated_0.1.1_amd64.deb
-Size: 170171078
-MD5sum: 89e8ba305d9772c423b3de6ac33c1192
-SHA1: 18ca43224f59f0e70449227b769029e2b5164767
-SHA256: 4017b57926fade7ce9716ff87fe304b720d6b06344e82121f5068cf96c39ca16
-SHA512: 597cb672d205ee3798ab13858f49ea4073a8c554d0beb9fcd0fe2b14604bb6877c6a51132aa1bcb30dbac6e3d7626d5012aebf09f0463d4fc338e1543a5a82ee
+Size: 170173558
+MD5sum: cc13c5d974f590fd4a529bf89f4ce3fb
+SHA1: 42f1a85c74ae54e833353d6d0d5d34d4f36a931e
+SHA256: 1e9f9879814fd665aa7992022c16e75e6bce4e5bf46cea665f6654c873f0f530
+SHA512: 296b40c6b508032562a81e5c45d18392aa91d073b758e5a861bd0f5d987c9bbbde4a45cdaa2a201c2b7650128902b34048229c1b3d9831288794b03293203fec
 Description: 
   The IDE for creative writing and worldbuilding
 Homepage: https://github.com/gadanisor/ungated
