@@ -1,5 +1,6 @@
-Origin: . beta
-Label: . beta
+Origin: beta beta
+Label: beta beta
 Archive: beta
+Suite: beta
 Architecture: amd64
 Component: master
